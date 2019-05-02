@@ -4,7 +4,7 @@
 
 ## LICENSE WARNING
 
-| WARNING: 本仓库使用采用 BY-NC-ND Intl. 4.0 进行授权 |
+| WARNING: 本仓库使用采用 CC-BY-NC-ND Intl. 4.0 进行授权 |
 | --- |
 
 **这意味着：**
@@ -30,3 +30,4 @@
 
 - 仅供HUSTers使用，其他学校无法使用
 - 使用本软件造成的后果由使用者自行承担
+- lat,lng分别为维度和精度，建议使用谷歌地球数据，[点此查询](http://www.gpsspg.com/maps.htm)，同时内置了东九和西十二的大致数据
